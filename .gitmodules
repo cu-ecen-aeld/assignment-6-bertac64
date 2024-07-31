@@ -2,9 +2,6 @@
 	path = assignment-autotest
 	url = https://github.com/cu-ecen-aeld/assignment-autotest.git
 [submodule "yocto"]
-	path = yocto
+	path = poky
 	url = https://git.yoctoproject.org/poky
 	branch = kirkstone
-[submodule "poky"]
-	path = poky
-	url = ./poky
